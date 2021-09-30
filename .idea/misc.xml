@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apolis_Android/Android_Class/RXJavaApplication/app/src/main/res/layout/activity_property.xml" value="0.1" />
+        <entry key="..\:/Apolis_Android/Android_Class/RXJavaApplication/app/src/main/res/layout/activity_property2.xml" value="0.1" />
+        <entry key="..\:/Apolis_Android/Android_Class/RXJavaApplication/app/src/main/res/layout/activity_property3.xml" value="0.20520833333333333" />
+        <entry key="..\:/Apolis_Android/Android_Class/RXJavaApplication/app/src/main/res/layout/holder_property.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
